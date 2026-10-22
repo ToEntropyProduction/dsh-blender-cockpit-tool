@@ -1,0 +1,12 @@
+{
+  "check": "bbox matches the blueprint",
+  "kind": "metric",
+  "metric": "max_abs_residual",
+  "value": 0,
+  "expected": 0,
+  "tolerance": 0.001,
+  "source": "script",
+  "artifact_path": "artifacts/readback.txt",
+  "artifact_sha256": "d5585df75d6322a678066a66609e6c84188e47290561123ba3f2378ea09d92f5",
+  "evidence_path": "evidence/claim-01.json"
+}
