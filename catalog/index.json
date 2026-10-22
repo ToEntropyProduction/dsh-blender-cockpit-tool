@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "catalog_version": "0.0.1",
+  "methods": [
+    {
+      "method_id": "host-proof-bbox-gate",
+      "version": "1.0.0",
+      "title": "Blockout bbox gate (real-host proof)",
+      "summary": "Prove the tool layer decodes frozen artifacts and installs from the cache.",
+      "status": "released",
+      "manifest_path": "methods/host-proof-bbox-gate/1.0.0/manifest.json",
+      "sha256": "26bcfe4831b57ba156dd9195aa95d52c5d9b9628d463bd5c08294e4bd852bde9",
+      "element_types": [],
+      "task_classes": [],
+      "tags": []
+    }
+  ]
+}
